@@ -25,18 +25,13 @@ Fun Fact: Debugging + Coffee = Superpower ☕
 
 ## 🚀 Developer Dashboard
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=venushabandara&theme=matrix&no-frame=true&row=1&column=6" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venushabandara&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=venushabandara&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=venushabandara&show_icons=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&hide_border=true" height="165"/>
+  
+  <img src="https://streak-stats.demolab.com?user=venushabandara&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ff00&hide_border=true" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venushabandara&theme=react-dark&hide_border=true" />
-</p>
 
 ---
 
