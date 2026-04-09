@@ -1,77 +1,114 @@
-<!-- Banner -->
+<!-- 🔥 Animated Header -->
 <p align="center">
-  <img src="https://t4.ftcdn.net/jpg/08/86/49/53/360_F_886495385_XudXZcfZb7FqTwSWpDjwOEWfsol6Sw6e.jpg" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0066ff&height=200&section=header&text=Venusha%20Bandara&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Venusha Bandara</h1>
-<h3 align="center">💻 IT Undergraduate | 🚀 Future Full-Stack Developer</h3>
-
----
-
-## 🌟 About Me
-- 🎓 BSc (Hons) in Computing & Information Systems  
-- 🏫 Sabaragamuwa University of Sri Lanka  
-- 💡 Passionate about **Web Development & Modern Technologies**  
-- ⚡ Fun fact: *I debug faster with coffee ☕*  
-- 🎯 Goal: Become a **Skilled Full-Stack Developer**
-
----
-
-## 🧠 Tech Stack
-
-### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,php,c" />
-</p>
-
-### ⚙️ Frameworks & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,mysql,git,github" />
-</p>
-
-### 🎨 Design Tools
-<p>
-<img src="https://skillicons.dev/icons?i=ps,ai" />
+<!-- 👀 Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FF99&center=true&vCenter=true&width=600&lines=IT+Undergraduate;Future+Full-Stack+Developer;React+%7C+Node+%7C+Tailwind;Always+Learning+New+Things+🚀" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🧑‍💻 About Me
+
+```yaml
+Name: Venusha Bandara
+Education: BSc (Hons) Computing & Information Systems
+University: Sabaragamuwa University of Sri Lanka
+Focus: Full Stack Development
+Passion: Building modern web apps
+Fun Fact: Debugging + Coffee = Superpower ☕
+```
+
+---
+
+## 🚀 Developer Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venushabandara&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=venushabandara&theme=matrix&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venushabandara&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=venushabandara&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=venushabandara&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venushabandara&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venushabandara&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-## 📬 Contact Me
-- 📧 Email: **venushabandara207@gmail.com**
-- 💼 GitHub: [github.com/venushabandara](https://github.com/venushabandara)
+## 🛠️ Tech Stack
+
+### ⚡ Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,c,ts" />
+</p>
+
+### 🚀 Frameworks & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,express,nextjs,mysql,git,github,vscode" />
+</p>
+
+### 🎨 Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ps,ai,figma" />
+</p>
 
 ---
 
-## 🔥 Current Focus
-- 🚀 Building real-world projects  
-- 📚 Learning **Next.js & Backend Development**  
-- 💡 Improving problem-solving skills  
+## 📂 Featured Projects
+
+🚧 *Coming Soon… (but not for long 😎)*  
+
+- 🔹 Full Stack Web App  
+- 🔹 Portfolio Website  
+- 🔹 AI-based Project  
+
+---
+
+## 🎯 Current Mission
+
+- 🔥 Mastering **Next.js & Backend Systems**
+- 🚀 Building **real-world scalable apps**
+- 🧠 Improving **problem-solving & DSA**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:venushabandara207@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00ff99?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+  <a href="https://github.com/venushabandara">
+    <img src="https://img.shields.io/badge/GitHub-0066ff?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=venushabandara&color=00ff99&style=flat-square" />
+</p>
 
 ---
 
 ## ☕ Support Me
-<p>
-<a href="https://www.buymeacoffee.com/venushabandara">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50">
-</a>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/venushabandara">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />
+  </a>
 </p>
 
 ---
 
-⭐ *"Code. Learn. Build. Repeat."*
+<!-- 🔥 Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,100:00ff99&height=120&section=footer"/>
+</p>
