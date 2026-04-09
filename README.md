@@ -92,13 +92,7 @@ Fun Fact: Debugging + Coffee = Superpower ☕
 ---
 
 
-## 🟢 Contribution Calendar
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/00ff00/venushabandara" />
-</p>
-
----
 
 ## 📊 Contribution Activity
 
