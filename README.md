@@ -92,14 +92,6 @@ Fun Fact: Debugging + Coffee = Superpower ☕
 ---
 
 
-
-
-## 📊 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venushabandara&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&hide_border=true" />
-</p>
-
 ## 👀 Profile Views
 
 <p align="center">
